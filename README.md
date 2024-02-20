@@ -16,8 +16,6 @@ This project involves analyzing a simulated dataset of births in Belgium for the
 
 The first block of code involves iterating over all files in the `data/geboortes` directory, reading each `.csv` file, and merging them into one large DataFrame. An extra column is added to represent the "day of the year" for each birth date.
 
-#### Note:
-Data for February 29, 2019, is considered incorrect (since 2019 is not a leap year) and is separated into a `df_wrong` DataFrame with an explanatory column.
 
 ### Getting to Know Our Data
 
