@@ -4,6 +4,16 @@
 
 This project involves analyzing a simulated dataset of births in Belgium for the year 2019. The data is contained in `.csv` files, each labeled with the actual birth date of the individuals in the file. The goal is to explore this dataset through various data manipulation and visualization techniques.
 
+Here's a concise description of your project's folder structure and files:
+
+- **`examen_env.yml`**: YAML file specifying the conda environment for the project.
+- **`data/geboortes/`**: Directory containing CSV files with birth data for 2019.
+- **`examen.ipynb`**: Jupyter Notebook with the data analysis code and findings.
+- **`opgave.pdf`**: PDF document outlining the data science exam assignment.
+- **`README.md`**: Markdown file providing an overview and instructions for the project.
+
+This structure organizes the environment setup, data, analysis, assignment details, and project documentation.
+
 ### Key Steps:
 - Create a Virtual Environment and export a `.yml` file to include in the codebase.
 - Set up a GitHub page with a `.gitignore` and `readme.md`, and include a link to the GitHub repo in the readme file.
